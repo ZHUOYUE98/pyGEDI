@@ -4,7 +4,7 @@
 The new Global Ecosystem Dynamics Investigation [GEDI](https://gedi.umd.edu/) launched on December 5th, 2018 is operating onboard the International Space Station [ISS](https://spotthestation.nasa.gov/) producing a high-resolution laser collecting 3D data around Earth on forest canopy height, canopy vertical structure, and surface elevation. As it is collecting daily data, a stable and fast platform is essential. For this reason, the library __pyGEDI__ is developed in Python as it can utilize multiple CPUs, GPUs, and is supported by C and [GDAL](https://github.com/OSGeo/gdal). 
 
 __pyGEDI__ provides a high performance, lower cognitive load, and cleaner and more transparent code for data extraction, analysis, processing, and visualization of GEDI's products.
-pyGEDI为GEDI产品的数据提取、分析、处理和可视化提供了高性能、低认知负荷和更干净、更透明的代码。
+- pyGEDI为GEDI产品的数据提取、分析、处理和可视化提供了高性能、低认知负荷和更干净、更透明的代码。
 
 
 ## Package Overview 
