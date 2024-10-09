@@ -1,9 +1,7 @@
 #!/usr/bin/env python
+import sys
 
-try:
-	import gdal
-except ImportError:
-	sys.exit("""You need following module: gdal """)
+from osgeo import gdal
 
 try:
 	import matplotlib.pyplot as plt
